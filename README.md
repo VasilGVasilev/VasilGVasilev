@@ -1,8 +1,8 @@
 # 💫 Hi, I am Vasil:
 <br>I am a Web Developer from Bulgaria, enthusiastic about Front-End development that also has solid foundation in Back-End technologies.
 <br>
-<br>👉 About Me<br>
-<br>💡 How can I develop a great software that customers would love? That's the question I ask myself every single time when I have to do а project, whether it's for university or for work. In each case it has come down to creativity and experience.<br>
+#👉 About Me
+
 <br>🎓 Prior to pursuing my true passion, web development, I have studied English and German law culminating in my Master of Laws degree with honours. I also have taken the Javascript Developer Path at SoftUni finishing each course with the highest note possible.<br>
 <br>💻 As a developer I have delivered several projects for private clients. The latest being https://ixorabg.com/<br>
 <br>👨‍💻 Also, I'm constantly updating my personal articles that reflect on the problems I have stumbled upon during my journey as a programmer.<br>
