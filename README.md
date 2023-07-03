@@ -3,7 +3,7 @@
 <br>
 <br>🎓 Prior to pursuing my true passion, web development, I have studied English and German law culminating in my Master of Laws degree with honours. I also have taken on the Javascript Developer Path at SoftUni finishing each course with the highest grade possible.<br>
 <br>💻 As a developer, my latest project delivered for a client is https://ixorabg.com/<br>
-<br>👨‍💻 Also, I'm constantly updating my personal articles that reflect on the problems I have stumbled upon during my journey as a programmer.<br>
+<br>👨‍💻 Also, I'm constantly updating my personal articles that reflect on the problems I have stumbled upon during my journey as a programmer. Check them out at https://vgvweb.com/<br>
 
 
 ## 🌐 Social:
