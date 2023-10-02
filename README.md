@@ -1,20 +1,23 @@
 # 💫 Hi, I am Vasil:
-<br>I have interest in both Front-End and Back-End development and my main area of expertise is the Javascript ecosystem.
-<br>
+<br>I have interest in both Front-End and Back-End development and my main area of expertise is the Javascript ecosystem.<br>
 <br>🎓 Prior to pursuing a developer's career, I have studied English and German law culminating in my Master of Laws degree with honours. I also have taken on the Javascript Developer Path at SoftUni finishing each course with the highest grade possible.<br>
 <br>💻 My latest projects: </br>
-<br>**Ixora Luxury Residence**</br>
+
+**Ixora Luxury Residence**
 https://ixorabg.com/
-<br>A SSG website for a freelance project about sell of apartments developed via Next.js, Tailwind, React and Framer Motion.</br>
-<br>**Tilia Residence**</br>
+A SSG website for a freelance project about sell of apartments developed via Next.js, Tailwind, React and Framer Motion.
+
+**Tilia Residence**
 https://vgvchat.online/
-<br>A SSG website for a freelance project about sell of apartments developed via Next.js, Tailwind, React and Framer Motion.</br>
-<br>**Aribnb clone**</br>
+A SSG website for a freelance project about sell of apartments developed via Next.js, Tailwind, React and Framer Motion.
+
+**Aribnb clone**
 https://vgv-rental.vercel.app/
-<br>A fullstack application developed via Typescript, Next.js, React, Tailwind, Prisma, MongoDB, Zustand, Next-Auth, brypt, axios.</br>
-<br>**VGV Chat**</br>
+A fullstack application developed via Typescript, Next.js, React, Tailwind, Prisma, MongoDB, Zustand, Next-Auth, brypt, axios.
+
+**VGV Chat**
 https://vgvchat.tech/
-<br>A Create React App website for real-time messaging developed via SASS, React and Firebase with unit testing via Cypress.</br>
+A Create React App website for real-time messaging developed via SASS, React and Firebase with unit testing via Cypress.
 
 <br>👨‍💻 Also, I am keeping up a blog with articles that reflect on the problems I have stumbled upon during my journey as a programmer. Check them out at https://dev.to/vasilgvasilev/<br>
 
