@@ -9,7 +9,7 @@ A SSG website for a freelance project about sell of apartments developed via Nex
 [**Tilia Residence**](https://vgvchat.online/)\
 A SSG website for a freelance project about sell of apartments developed via Next.js, Tailwind, React and Framer Motion.
 
-[**Aribnb clone**](https://vgv-rental.vercel.app/)\
+[**Airbnb clone**](https://vgv-rental.vercel.app/)\
 A fullstack application developed via Typescript, Next.js, React, Tailwind, Prisma, MongoDB, Zustand, Next-Auth, brypt, axios.
 
 [**VGV Chat**](https://vgvchat.tech/)\
