@@ -2,11 +2,18 @@
 <br>I am a Web Developer from Bulgaria, enthusiastic about Front-End development that also has solid foundation in Back-End technologies.
 <br>
 <br>🎓 Prior to pursuing a web development career, I have studied English and German law culminating in my Master of Laws degree with honours. I also have taken on the Javascript Developer Path at SoftUni finishing each course with the highest grade possible.<br>
-<br>💻 My latest projects:
-https://ixorabg.com/
-A SSG website for a freelance project about sell of apartments developed via Next.js, Tailwind, React and Framer Motion. 
-<br>
-<br>👨‍💻 Also, I'm constantly updating my personal articles that reflect on the problems I have stumbled upon during my journey as a programmer. Check them out at https://vgvweb.com/<br>
+<br>💻 My latest projects: </br>
+<br>https://ixorabg.com/</br>
+<br>A SSG website for a freelance project about sell of apartments developed via Next.js, Tailwind, React and Framer Motion.</br>
+<br>https://vgvchat.online/</br>
+<br>A SSG website for a freelance project about sell of apartments developed via Next.js, Tailwind, React and Framer Motion.</br>
+<br>https://vgv-rental.vercel.app/</br>
+<br>A fullstack application developed via Typescript, Next.js, React, Tailwind, Prisma, MongoDB, Zustand, Next-Auth, brypt, axios.</br>
+<br>https://vgvchat.tech/</br>
+<br>A Create React App website for real-time messaging developed via SASS, React and Firebase with unit testing via Cypress.</br>
+
+
+<br>👨‍💻 Also, I'm constantly updating my personal articles that reflect on the problems I have stumbled upon during my journey as a programmer. Check them out at https://dev.to/vasilgvasilev/<br>
 
 
 ## 🌐 Social:
