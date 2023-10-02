@@ -3,16 +3,16 @@
 <br>🎓 Prior to pursuing a developer's career, I have studied English and German law culminating in my Master of Laws degree with honours. I also have taken on the Javascript Developer Path at SoftUni finishing each course with the highest grade possible.<br>
 <br>💻 My latest projects: </br>
 
-[**Ixora Luxury Residence**](https://ixorabg.com/)
+[**Ixora Luxury Residence**](https://ixorabg.com/)/
 A SSG website for a freelance project about sell of apartments developed via Next.js, Tailwind, React and Framer Motion.
 
-[**Tilia Residence**](https://vgvchat.online/)
+[**Tilia Residence**](https://vgvchat.online/)/
 A SSG website for a freelance project about sell of apartments developed via Next.js, Tailwind, React and Framer Motion.
 
-[**Aribnb clone**](https://vgv-rental.vercel.app/)
+[**Aribnb clone**](https://vgv-rental.vercel.app/)/
 A fullstack application developed via Typescript, Next.js, React, Tailwind, Prisma, MongoDB, Zustand, Next-Auth, brypt, axios.
 
-[**VGV Chat**](https://vgvchat.tech/)
+[**VGV Chat**](https://vgvchat.tech/)/
 A Create React App website for real-time messaging developed via SASS, React and Firebase with unit testing via Cypress.
 
 <br>👨‍💻 Also, I am keeping up a blog with articles that reflect on the problems I have stumbled upon during my journey as a programmer. Check them out at https://dev.to/vasilgvasilev/<br>
