@@ -1,7 +1,7 @@
 # 💫 Hi, I am Vasil:
-<br>I am a Web Developer from Bulgaria, enthusiastic about Front-End development that also has solid foundation in Back-End technologies.
+<br>I have interest in both Front-End and Back-End development and my main area of expertise is the Javascript ecosystem.
 <br>
-<br>🎓 Prior to pursuing a web development career, I have studied English and German law culminating in my Master of Laws degree with honours. I also have taken on the Javascript Developer Path at SoftUni finishing each course with the highest grade possible.<br>
+<br>🎓 Prior to pursuing a developer's career, I have studied English and German law culminating in my Master of Laws degree with honours. I also have taken on the Javascript Developer Path at SoftUni finishing each course with the highest grade possible.<br>
 <br>💻 My latest projects: </br>
 <br>https://ixorabg.com/</br>
 <br>A SSG website for a freelance project about sell of apartments developed via Next.js, Tailwind, React and Framer Motion.</br>
@@ -13,7 +13,7 @@
 <br>A Create React App website for real-time messaging developed via SASS, React and Firebase with unit testing via Cypress.</br>
 
 
-<br>👨‍💻 Also, I'm constantly updating my personal articles that reflect on the problems I have stumbled upon during my journey as a programmer. Check them out at https://dev.to/vasilgvasilev/<br>
+<br>👨‍💻 Also, I am keeping up a blog with articles that reflect on the problems I have stumbled upon during my journey as a programmer. Check them out at https://dev.to/vasilgvasilev/<br>
 
 
 ## 🌐 Social:
