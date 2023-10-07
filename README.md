@@ -2,9 +2,9 @@
 <br>I have interest in both Front-End and Back-End development and my main area of expertise is the Javascript ecosystem.<br>
 <br>🎓 Prior to pursuing a developer's career, I have studied English and German law culminating in my Master of Laws degree with honours. I also have taken on the Javascript Developer Path at SoftUni finishing each course with the highest grade possible.<br>
 
-<br>🌐 [My portfolio website](https://vgvweb.com/) </br>
+<br>🌐 [**My portfolio website**](https://vgvweb.com/) </br>
 
-<br>💻 My latest projects: </br>
+<br>💻 **My latest projects:** </br>
 
 [**Ixora Luxury Residence**](https://ixorabg.com/)\
 A SSG website for a freelance project about sell of apartments developed via Next.js, Tailwind, React and Framer Motion.
