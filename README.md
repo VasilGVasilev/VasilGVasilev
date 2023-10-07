@@ -1,6 +1,7 @@
 # 💫 Hi, I am Vasil:
 <br>I have interest in both Front-End and Back-End development and my main area of expertise is the Javascript ecosystem.<br>
-<br>🎓 **Education:** </br>
+
+## 🎓 Education:
 <br> Prior to pursuing a developer's career, I have studied English and German law culminating in my Master of Laws degree with honours. I also have taken on the Javascript Developer Path at SoftUni finishing each course with the highest grade possible.<br>
 
 ## 🌐 My portfolio website:
