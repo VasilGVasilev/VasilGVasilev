@@ -5,7 +5,7 @@
 <br> Prior to pursuing a developer's career, I have studied English and German law culminating in my Master of Laws degree with honours. I also have taken on the Javascript Developer Path at SoftUni finishing each course with the highest grade possible.<br>
 
 ## 🌐 My portfolio website:
-[![VGVWeb](https://img.shields.io/badge/VGVWeb-000000.svg?logo=website&logoColor=white)](https://vgvweb.com/)
+[![VGVWeb](https://github.com/VasilGVasilev/portfolio/blob/main/NBs/portfolio-welcome.png)](https://vgvweb.com/)
 
 ## 💻 My latest projects:
 
