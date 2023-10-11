@@ -12,7 +12,7 @@
 [**Ixora Luxury Residence**](https://ixorabg.com/)\
 A SSG website for a freelance project about sell of apartments developed via Next.js, Tailwind, React and Framer Motion.
 
-[**Tilia Residence**](https://vgvchat.online/)\
+[**Tilia Residence**](https://tiliabg.com/)\
 A SSG website for a freelance project about sell of apartments developed via Next.js, Tailwind, React and Framer Motion.
 
 [**Airbnb clone**](https://vgv-rental.vercel.app/)\
